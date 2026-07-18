@@ -144,7 +144,7 @@ Power BI dashboard for analyzing sales, inventory, customers, stores, and employ
 
 <br>
 
-<a href="YOUR_BIKE_STORE_REPOSITORY">
+<a href="https://github.com/osamaabdeldaiem/Bike-Store-Sales-and-Inventory-Dashboard">
 
 <img src="https://img.shields.io/badge/View_Project-14B8A6?style=for-the-badge"/>
 
@@ -164,7 +164,7 @@ Healthcare analytics dashboard for monitoring hospital operations and financial 
 
 <br>
 
-<a href="YOUR_HOSPITAL_REPOSITORY">
+<a href="https://github.com/osamaabdeldaiem/Al-Hayat-Hospital-Healthcare-Analytics-Dashboard">
 
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 
@@ -208,7 +208,7 @@ Sales dashboard providing insights into revenue, products, and business performa
 
 <br>
 
-<a href="YOUR_MISUO_REPOSITORY">
+<a href="https://github.com/osamaabdeldaiem/Salla-Call-Center-Performance-Dashboard">
 
 <img src="https://img.shields.io/badge/View_Project-F97316?style=for-the-badge"/>
 
